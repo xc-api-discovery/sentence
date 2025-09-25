@@ -1,0 +1,16 @@
+{ 
+	"locations": [
+	{
+		"id": 1,
+		"name": "small"
+	},
+        {
+                "id": 2,
+                "name": "big"
+        },
+        {
+                "id": 3,
+                "name": "skinny"
+        }
+	]
+}
